@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1622331740 source:c:\users\pc\desktop\c++\main.cpp
+	<iostream>
+	"adherent.h"
+	"livre.h"
+	"emprunt.h"
+	<string>
+
+1622326560 source:c:\users\pc\desktop\c++\adherent.cpp
+	<iostream>
+	"adherent.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1622325680 c:\users\pc\desktop\c++\adherent.h
+	<string>
+
+1622327081 source:c:\users\pc\desktop\c++\livre.cpp
+	<iostream>
+	"livre.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1621881815 c:\users\pc\desktop\c++\livre.h
+	<string>
+
+1622332230 source:c:\users\pc\desktop\c++\emprunt.cpp
+	<iostream>
+	"emprunt.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1622331585 c:\users\pc\desktop\c++\emprunt.h
+	<string>
+	"livre.h"
+	"adherent.h"
+
